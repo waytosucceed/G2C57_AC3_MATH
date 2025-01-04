@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "There are balloons tied to trees in Rainbow Valley for Kiki’s birthday. Fill in the blanks to complete the division statement.",
+    "options":["","÷","2","=","5"],
+    "answers": ["10","÷","2","=","5"],
+    "secondImg":"./images/1.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "There are cupcakes in the picnic basket, packed for Kiki’s birthday celebration. Fill in the blanks to complete the division statement.",
+    "options":["18","÷","","=","6"],
+    "answers": ["18","÷","3","=","6"],
+    "secondImg":"./images/2.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Kiki and the kangaroos found colorful flowers and shared them equally. Fill in the blanks to complete the division statement.",
+    "options":["16","÷","","=","8"],
+    "answers": ["16","÷","2","=","8"],
+    "secondImg":"./images/3.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "Goodie bags filled with treats were prepared for each kangaroo at the celebration. Fill in the blanks to complete the division statement.",
+    "options":["16","÷","","=","4"],
+    "answers": ["16","÷","4","=","4"],
+    "secondImg":"./images/4.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "The kangaroos set up chairs near the sparkling stream to rest. Fill in the blanks to complete the division statement.",
+    "options":["","÷","2","=","9"],
+    "answers": ["18","÷","2","=","9"],
+    "secondImg":"./images/5.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "There were shiny stickers in the basket for the kangaroos to decorate the picnic area. Fill in the blanks to complete the division statement.",
+    "options":["32","÷","","=","8"],
+    "answers": ["32","÷","4","=","8"],
+    "secondImg":"./images/6.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "Water bottles were packed for the kangaroos to share during their hike. Fill in the blanks to complete the division statement.",
+    "options":["","÷","6","=","3"],
+    "answers": ["18","÷","6","=","3"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": "Backpacks filled with supplies were prepared to carry on their adventure. Fill in the blanks to complete the division statement.",
+    "options":["36","÷","","=","6"],
+    "answers": ["36","÷","6","=","6"],
+    "secondImg":"./images/8.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "There are cookies prepared for the for the celebration. Fill in the blanks to complete the division statement.",
+    "options":["24","÷","","=","8"],
+    "answers": ["24","÷","3","=","8"],
+    "secondImg":"./images/9.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "Prizes for fun games during Kiki’s birthday celebration were distributed equally. Fill in the blanks to complete the division statement.",
+    "options":["","÷","2","=","10"],
+    "answers": ["20","÷","2","=","10"],
+    "secondImg":"./images/10.jpg"
+  }
+]
